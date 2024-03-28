@@ -1,6 +1,3 @@
-<h1 align="center">
- <img src="[profile](https://github.com/VOLTAR99/VOLTAR99/assets/119584242/af2645f6-e8fc-476f-9796-f2b725475743)" />
-</h1>
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
@@ -38,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=voltar99&show_icons=true&locale=en" alt="voltar99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=voltar99&" alt="voltar99" /></p>
-
