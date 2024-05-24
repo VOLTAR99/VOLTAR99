@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=voltar99" alt="voltar99" /></a> </p>
 
-- 🔭 I’m currently working on **IOT based smart streetlight system**
+- 🔭 I’m currently working on **Contributing in GSSOC 2024, IOT based smart streetlight system, My Shelf, Work it out**
 
 - 🌱 I’m currently learning **flutter, GraphQL, socket.io, web Socket**
 
